@@ -137,6 +137,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
 		</Item>
+		<Item Name="Motion-MoveXAndYNOAV.vi" Type="VI" URL="../Move X and Y Axis/Motion-MoveXAndYNOAV.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;K!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$J!=!!?!!!&lt;'5VP&gt;'FP&lt;CV$&lt;WZU=G^M17RM,GRW9WRB=X-!&amp;5VP&gt;'FP&lt;CV$&lt;WZU=G^M17RM)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!":!-0````].7#"$&lt;W^S:'FO982F=Q!71$$`````$6EA1W^P=G2J&lt;G&amp;U:8-!/E"Q!"Y!!"M:47^U;7^O,5.P&lt;H2S&lt;WR"&lt;'QO&lt;(:D&lt;'&amp;T=Q!547^U;7^O,5.P&lt;H2S&lt;WR"&lt;'QA;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!=!#!!*!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!"#A!!!1I!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!I!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
+		</Item>
 	</Item>
 	<Item Name="Poll X and Y Axis" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
